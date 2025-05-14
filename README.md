@@ -48,8 +48,5 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SAI127001.SAI127001&left_color=grey&right_color=black"  />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffff&section=footer" />
